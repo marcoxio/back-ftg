@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/marcoxio/back-ftg/issues"
   },
-  "homepage": "https://github.com/marcoxio/back-ftg#readme"
+  "homepage": "https://github.com/marcoxio/back-ftg#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.1",
+    "nodemon": "latest"
+  }
 }
